@@ -76,7 +76,7 @@ goto op2
 :op3
 cls
 pause > nul
-echo juegos
+
 echo 1-
 echo 2-
 echo 3-
@@ -109,4 +109,5 @@ goto 1
 
 :op4
 cls
+go to 1
 pause > nul
